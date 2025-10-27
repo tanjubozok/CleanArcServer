@@ -1,0 +1,17 @@
+<Solution>
+  <Folder Name="/src/" />
+  <Folder Name="/src/Core/">
+    <Project Path="src/Core/CleanArcServer.Application/CleanArcServer.Application.csproj" />
+    <Project Path="src/Core/CleanArcServer.Domain/CleanArcServer.Domain.csproj" />
+  </Folder>
+  <Folder Name="/src/Infrastructure/">
+    <Project Path="src/Infrastructure/CleanArcServer.Infrastructure/CleanArcServer.Infrastructure.csproj" />
+    <Project Path="src/Infrastructure/CleanArcServer.Persistence/CleanArcServer.Persistence.csproj" />
+  </Folder>
+  <Folder Name="/src/Presentation/">
+    <Project Path="src/Presentation/CleanArcServer.WebAPI/CleanArcServer.WebAPI.csproj" />
+  </Folder>
+  <Folder Name="/src/Shared/">
+    <Project Path="src/Shared/CleanArcServer.Shared/CleanArcServer.Shared.csproj" />
+  </Folder>
+</Solution>
